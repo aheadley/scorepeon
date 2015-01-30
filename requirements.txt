@@ -1,0 +1,4 @@
+Django==1.7.4
+django-bootstrap3==5.1.1
+trueskill==0.4.3
+wsgiref==0.1.2
